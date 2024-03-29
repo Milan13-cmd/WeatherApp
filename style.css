@@ -1,6 +1,6 @@
 body{
     font-family: Arial,sans-serif;
-    background-color: rgb(183, 177, 177);
+    background-color: rgb(75, 89, 91);
     margin: 0;
     display: flex;
     flex-direction: column;
@@ -13,7 +13,7 @@ body{
     padding: 10px;
     font-size: 2rem;
     font-weight: bold;
-    border: 2px solid  rgba(89, 85, 85, 0.33);
+    border: 2px solid  rgba(131, 89, 89, 0.33);
     border-radius: 10px;
     margin: 10px;
     width: 200px;
@@ -22,13 +22,13 @@ body{
 
 }
 input[type = text]:focus{
-    border :3px solid #3192c6;
+    border :3px solid #416a80;
 }
 button[type="submit"]{
     padding: 10px 20px;
     font-weight: bold;
     font-size: 2rem;
-    background-color: rgba(80, 132, 216, 0.893);
+    background-color: rgba(18, 98, 226, 0.893);
     color: #fff;
     border: none;
     border-radius: 5px;
